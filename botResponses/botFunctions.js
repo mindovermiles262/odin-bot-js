@@ -63,6 +63,10 @@ var botFunctions = {
     condition: /\/shrug/,
     response: responses.botResponseShrug,
   },  
+  shurg: {
+    condition: /\/shurg/,
+    response: responses.botResponseShurg,
+  }
   spoopy: {
     condition: /spoopy/,
     response: responses.botResponseSpoopy,
